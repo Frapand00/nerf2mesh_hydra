@@ -1,0 +1,11 @@
+/home/
+/logs/
+/trial_syn_lego/
+/trial_360_garden/
+/data/nerf_synthetic/
+/data/poster/
+/workspace/
+/configs/
+/cuda-repo-wsl-ubuntu-11-6-local_11.6.0-1_amd64.deb
+/cuda-repo-wsl-ubuntu-11-8-local_11.8.0-1_amd64.deb
+/pytorch3d/
